@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'header_1' => 'Navigation Menu',
+    'header_2' => 'Skip to Main Content',
+    'header_3' => 'Skip to Footer',
+    'header_4' => 'Menu',
+    'header_5' => 'Shop',
+    'header_6' => 'News',
+    'header_7' => 'Support',
+    'header_8' => 'Open Account Menu',
+    'header_9' => 'My Account',
+    'header_10' => 'Account Menu',
+    'header_11' => 'Log In',
+    'header_12' => 'Account Settings',
+    'header_13' => 'Create Account',
+    'header_14' => 'My Gifts',
+    'header_15' => 'Log Out',
+    'header_16' => 'Close Menu',
+    'header_17' => 'Close',
+    'header_18' => 'Home',
+    'header_19' => 'Search for characters, blogs, and more...',
+    'header_20' => 'Home',
+    'header_21' => 'Forums',
+    'header_22' => 'Log in',
+    'header_23' => 'Account',
+];

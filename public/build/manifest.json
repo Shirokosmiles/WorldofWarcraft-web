@@ -1,0 +1,52 @@
+{
+  "resources/js/app.js": {
+    "file": "assets/app.0b6a482c.js",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/css/realm-status.css": {
+    "file": "assets/realm-status.f70c94b4.css",
+    "src": "resources/css/realm-status.css",
+    "isEntry": true
+  },
+  "resources/css/photoswipe.css": {
+    "file": "assets/photoswipe.3e1d685c.css",
+    "src": "resources/css/photoswipe.css",
+    "isEntry": true
+  },
+  "resources/css/admin.css": {
+    "file": "assets/admin.b13e319b.css",
+    "src": "resources/css/admin.css",
+    "isEntry": true
+  },
+  "resources/css/simplebar.css": {
+    "file": "assets/simplebar.cf930891.css",
+    "src": "resources/css/simplebar.css",
+    "isEntry": true
+  },
+  "resources/css/izimodal.css": {
+    "file": "assets/izimodal.d0b43fac.css",
+    "src": "resources/css/izimodal.css",
+    "isEntry": true
+  },
+  "resources/css/navbar.css": {
+    "file": "assets/navbar.1647b275.css",
+    "src": "resources/css/navbar.css",
+    "isEntry": true
+  },
+  "resources/css/news.css": {
+    "file": "assets/news.de27b313.css",
+    "src": "resources/css/news.css",
+    "isEntry": true
+  },
+  "resources/css/3.css": {
+    "file": "assets/3.16e79391.css",
+    "src": "resources/css/3.css",
+    "isEntry": true
+  },
+  "resources/css/core.css": {
+    "file": "assets/core.a3a38bd3.css",
+    "src": "resources/css/core.css",
+    "isEntry": true
+  }
+}
